@@ -72,8 +72,8 @@ Uma **Nota Final** de 0 a 10 é calculada combinando esses quatro pilares de for
 
 1.  **Clone o repositório:**
     ```bash
-    git clone <url-do-seu-repositorio>
-    cd <nome-do-repositorio>
+    git clone https://github.com/Czar210/Skin_Care
+    cd Skin_Care
     ```
 
 2.  **Instale as dependências:**
