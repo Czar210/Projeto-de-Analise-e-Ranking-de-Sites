@@ -112,8 +112,11 @@ A execução do notebook produzirá:
     - **Dashboard de Ranking:** Apresenta o ranking final dos sites e um gráfico detalhado que mostra a contribuição de cada componente (tema, relevância, etc.) para a nota final.
     - **Dashboard de Sentimentos:** Mostra a classificação de cada site com base no sentimento do seu conteúdo.
  
-## Feitor por
-@Czar210
-@devdebdeb
-@enzotakida
-@Subaruberu
+## ✨ Feito por
+
+Uma equipa fantástica que tornou este projeto possível:
+
+- @Czar210
+- @devdebdeb
+- @enzotakida
+- @Subaruberu
