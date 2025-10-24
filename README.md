@@ -113,7 +113,7 @@ A execução do notebook produzirá:
     - **Dashboard de Sentimentos:** Mostra a classificação de cada site com base no sentimento do seu conteúdo.
  
 ## Feitor por
-github.com/Czar210
-github.com/devdebdeb
-github.com/enzotakida
-github.com/Subaruberu
+@Czar210
+@devdebdeb
+@enzotakida
+@Subaruberu
