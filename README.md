@@ -111,3 +111,9 @@ A execução do notebook produzirá:
     - **Dashboard de Frequência:** Exibe a nuvem de palavras e os gráficos com as palavras, bigramas e trigramas mais comuns.
     - **Dashboard de Ranking:** Apresenta o ranking final dos sites e um gráfico detalhado que mostra a contribuição de cada componente (tema, relevância, etc.) para a nota final.
     - **Dashboard de Sentimentos:** Mostra a classificação de cada site com base no sentimento do seu conteúdo.
+ 
+## Feitor por
+github.com/Czar210
+github.com/devdebdeb
+github.com/enzotakida
+github.com/Subaruberu
