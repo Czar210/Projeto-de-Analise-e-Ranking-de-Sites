@@ -116,7 +116,7 @@ A execução do notebook produzirá:
 
 Uma equipa fantástica que tornou este projeto possível:
 
-- @Czar210
-- @devdebdeb
-- @enzotakida
-- @Subaruberu
+- [@Czar210](https://github.com/Czar210)
+- [@devdebdeb](https://github.com/devdebdeb)
+- [@enzotakida](https://github.com/enzotakida)
+- [@Subaruberu](https://github.com/Subaruberu)
